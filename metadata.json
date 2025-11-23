@@ -1,0 +1,8 @@
+{
+  "name": "A.R.A. - Augmented Responsive Assistant",
+  "description": "A helpful, precise, and multimodal AI assistant capable of grounding answers with real-time maps and Google Search results.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
